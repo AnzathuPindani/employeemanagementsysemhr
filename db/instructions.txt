@@ -1,0 +1,8 @@
+Hie Eddah,
+
+To install the software
+1) create a db called ambhrdb
+2) Import the database from this folder that ends in .sql
+3) The password for administrator is 
+username: admin
+password: Password@123
